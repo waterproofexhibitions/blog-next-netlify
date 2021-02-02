@@ -1,0 +1,27 @@
+{
+  "name": "blog-next-netlify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waterproofexhibitions/blog-next-netlify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waterproofexhibitions/blog-next-netlify/issues"
+  },
+  "homepage": "https://github.com/waterproofexhibitions/blog-next-netlify#readme",
+  "dependencies": {
+    "next": "^10.0.6",
+    "nodejs": "^0.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
